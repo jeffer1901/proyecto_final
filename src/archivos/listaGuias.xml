@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.9" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="modelo.Guia">
+    <void property="cedula">
+     <string>1234</string>
+    </void>
+    <void property="experiencia">
+     <int>15</int>
+    </void>
+    <void property="lenguajes">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <string>Español</string>
+      </void>
+      <void method="add">
+       <string>Ingles</string>
+      </void>
+      <void method="add">
+       <string>Frances</string>
+      </void>
+     </object>
+    </void>
+    <void property="nombre">
+     <string>Olga</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

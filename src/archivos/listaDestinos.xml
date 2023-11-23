@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.9" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="modelo.Destinos">
+    <void property="ciudad">
+     <string>Barcelona</string>
+    </void>
+    <void property="clima">
+     <string>frio</string>
+    </void>
+    <void property="descrpcion">
+     <string>ciudad bonita</string>
+    </void>
+    <void property="imagenes">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>C:\Users\yefer\Downloads\iloveimg-resized (2)\Captura de pantalla 2023-11-15 164005.png</string>
+      </void>
+      <void index="1">
+       <string>C:\Users\yefer\Downloads\imagen_2023-11-16_213648472.png</string>
+      </void>
+      <void index="2">
+       <string>C:\Users\yefer\Downloads\iloveimg-resized (2)\graficos.png</string>
+      </void>
+      <void index="3">
+       <string>C:\Users\yefer\Downloads\imagen_2023-11-16_213859200.png</string>
+      </void>
+     </array>
+    </void>
+    <void property="nombre">
+     <string>Argelia</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Destinos">
+    <void property="ciudad">
+     <string>Paris</string>
+    </void>
+    <void property="clima">
+     <string>calido</string>
+    </void>
+    <void property="descrpcion">
+     <string>ciudad del amor</string>
+    </void>
+    <void property="imagenes">
+     <array class="java.lang.String" length="4">
+      <void index="0">
+       <string>C:\Users\yefer\Pictures\Screenshots\Captura de pantalla 2023-11-02 182217.png</string>
+      </void>
+      <void index="1">
+       <string>C:\Users\yefer\Pictures\Screenshots\Captura de pantalla 2023-11-02 181938.png</string>
+      </void>
+      <void index="2">
+       <string>C:\Users\yefer\Pictures\Screenshots\Captura de pantalla 2023-10-19 211703.png</string>
+      </void>
+      <void index="3">
+       <string>C:\Users\yefer\Pictures\Screenshots\Captura de pantalla 2023-11-02 183035.png</string>
+      </void>
+     </array>
+    </void>
+    <void property="nombre">
+     <string>Francia</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

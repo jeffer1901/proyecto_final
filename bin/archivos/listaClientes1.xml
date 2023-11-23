@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.9" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="modelo.Cliente">
+    <void property="cedula">
+     <string>1092</string>
+    </void>
+    <void property="contraseña">
+     <string>123</string>
+    </void>
+    <void property="correo">
+     <string>jerugames2@gmail.com</string>
+    </void>
+    <void property="direccion">
+     <string>armenia,quindio</string>
+    </void>
+    <void property="nombre">
+     <string>jeff</string>
+    </void>
+    <void property="numero">
+     <string>3168420664</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Cliente">
+    <void property="cedula">
+     <string>1092</string>
+    </void>
+    <void property="contraseña">
+     <string>123</string>
+    </void>
+    <void property="correo">
+     <string>jerugames2@gmail.com</string>
+    </void>
+    <void property="direccion">
+     <string>armenia,quindio</string>
+    </void>
+    <void property="nombre">
+     <string>jeff</string>
+    </void>
+    <void property="numero">
+     <string>3168420664</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="modelo.Cliente">
+    <void property="cedula">
+     <string>1478</string>
+    </void>
+    <void property="contraseña">
+     <string>159</string>
+    </void>
+    <void property="correo">
+     <string>jerugames2@gmail.com</string>
+    </void>
+    <void property="direccion">
+     <string>armenia</string>
+    </void>
+    <void property="nombre">
+     <string>Jefferson</string>
+    </void>
+    <void property="numero">
+     <string>3225537161</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
